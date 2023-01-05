@@ -1,4 +1,5 @@
 /** components */
+export { TransparentCard } from "./src/components/TransparentCard";
 
 /** functions */
 export { default as testFunc } from "./src/funcs/test";

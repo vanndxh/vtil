@@ -1,12 +1,14 @@
-# params
+# isToday
+
+## params
 
 - date: 需要判断的时间，Date 格式
 
-# return
+## return
 
 - boolean 返回 true / false
 
-# example
+## example
 
 ```javascript
 const res = isToday(new Date()); // true
